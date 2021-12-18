@@ -29,6 +29,9 @@ Class elements that belong togther should be togther and if something is not rel
 ## Test Become
 - Longer
 - More Complex
+- Brittle 
+
+
 
 
 When two are more details are coupled togther
