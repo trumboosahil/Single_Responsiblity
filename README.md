@@ -22,6 +22,9 @@ Class elements that belong togther should be togther and if something is not rel
 
 ![image](https://user-images.githubusercontent.com/3725274/146653694-38eb8e92-a648-48d4-a191-9e985c5e5a69.png)
 
+![image](https://user-images.githubusercontent.com/3725274/146653727-9835065d-ad39-4824-a6e9-20857e75e560.png)
+
+
 
 
 When two are more details are coupled togther
