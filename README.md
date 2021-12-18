@@ -25,6 +25,10 @@ Class elements that belong togther should be togther and if something is not rel
 ![image](https://user-images.githubusercontent.com/3725274/146653727-9835065d-ad39-4824-a6e9-20857e75e560.png)
 
 
+# Single responsiblitie and testability
+## Test Become
+- Longer
+- More Complex
 
 
 When two are more details are coupled togther
