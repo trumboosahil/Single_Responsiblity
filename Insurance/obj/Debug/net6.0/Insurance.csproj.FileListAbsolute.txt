@@ -1,0 +1,15 @@
+C:\Users\Shafi\source\repos\Insurance\Insurance\bin\Debug\net6.0\Insurance.exe
+C:\Users\Shafi\source\repos\Insurance\Insurance\bin\Debug\net6.0\Insurance.deps.json
+C:\Users\Shafi\source\repos\Insurance\Insurance\bin\Debug\net6.0\Insurance.runtimeconfig.json
+C:\Users\Shafi\source\repos\Insurance\Insurance\bin\Debug\net6.0\Insurance.dll
+C:\Users\Shafi\source\repos\Insurance\Insurance\bin\Debug\net6.0\ref\Insurance.dll
+C:\Users\Shafi\source\repos\Insurance\Insurance\bin\Debug\net6.0\Insurance.pdb
+C:\Users\Shafi\source\repos\Insurance\Insurance\obj\Debug\net6.0\Insurance.csproj.AssemblyReference.cache
+C:\Users\Shafi\source\repos\Insurance\Insurance\obj\Debug\net6.0\Insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shafi\source\repos\Insurance\Insurance\obj\Debug\net6.0\Insurance.AssemblyInfoInputs.cache
+C:\Users\Shafi\source\repos\Insurance\Insurance\obj\Debug\net6.0\Insurance.AssemblyInfo.cs
+C:\Users\Shafi\source\repos\Insurance\Insurance\obj\Debug\net6.0\Insurance.csproj.CoreCompileInputs.cache
+C:\Users\Shafi\source\repos\Insurance\Insurance\obj\Debug\net6.0\Insurance.dll
+C:\Users\Shafi\source\repos\Insurance\Insurance\obj\Debug\net6.0\ref\Insurance.dll
+C:\Users\Shafi\source\repos\Insurance\Insurance\obj\Debug\net6.0\Insurance.pdb
+C:\Users\Shafi\source\repos\Insurance\Insurance\obj\Debug\net6.0\Insurance.genruntimeconfig.cache
